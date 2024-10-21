@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "imgURL": "/images/img1.png"
+    },
+    {
+        "id": "2",
+        "imgURL": "/images/img2.webp"
+    },
+    {
+        "id": "3",
+        "imgURL": "/images/img3.png"
+    }
+]
